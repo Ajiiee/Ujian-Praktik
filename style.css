@@ -1,0 +1,134 @@
+.header {
+    position: absolute;
+    width: 1440px;
+    height: 166px;
+    left: 0px;
+    top: 0px;
+    background: #C4C4C4;
+}
+header{
+    position: absolute;
+    width: 155px;
+    height: 56px;
+    left: 642px;
+    top: 55px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #FFFFFF;
+}
+.carousel{
+    position: absolute;
+    width: 1366px;
+    height: 761px;
+    left: 37px;
+    top: 204px;
+    background: #C4C4C4;
+}
+.firstSlide {
+    position: absolute;
+    width: 215px;
+    height: 48px;
+    left: 615px;
+    top: 561px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    color: #EEEEEE;
+}
+.row1{
+    position: absolute;
+    width: 860px;
+    height: 228px;
+    left: 40px;
+    top: 1034px;
+}
+.rectangle2{
+    position: absolute;
+    width: 260px;
+    height: 228px;
+    background: #C4C4C4;
+
+}
+.group2 {
+    position: absolute;
+    width: 260px;
+    height: 228px;
+    left: 340px;
+}
+
+.rectangle3{
+    position: absolute;
+    width: 250px;
+    height: 228px;
+    right:40px;
+    background: #C4C4C4;
+}
+.group3 {
+    position: absolute;
+    width: 260px;
+    height: 228px;
+    left: 640px;
+}
+.rectangle4 {
+    position: absolute;
+    width: 250px;
+    height: 228px;
+    right: 40px;
+    background: #C4C4C4;
+}
+.row2 {
+    position: absolute;
+    width: 860px;
+    height: 228px;
+    left: 40px;
+    top: 1298px;
+}
+.rectangle5 {
+    position: absolute;
+    width: 560px;
+    height: 228px;
+    background: #C4C4C4;
+}
+.group5 {
+    position: absolute;
+    width: 260px;
+    height: 228px;
+    left: 640px;
+}
+.rectangle7 {
+    position: absolute;
+    width: 250px;
+    right: 40px;
+    height: 228px;   
+    background: #C4C4C4;
+}
+.group6 {
+    position: absolute;
+    width: 860px;
+    height: 211px;
+    left: 40px;
+    top: 265px;
+}
+.rectangle8 {
+    position: absolute;
+    width: 860px;
+    height: 211px;
+    right: 40px;
+    background: #C4C4C4;
+}
+.side{
+    position: absolute;
+    width: 458px;
+    height: 739px;
+    left: 948px;
+    top: 1034px;
+    background: #C4C4C4;
+}
